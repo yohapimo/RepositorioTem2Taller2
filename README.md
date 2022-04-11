@@ -1,2 +1,6 @@
-# RepositorioTem2Taller2
-Este es el repositorio del taller 2 – aplicación de abstracción, método abstracto e interfaces.
+# RepositorioDeTaller2
+Este es el repositorio para el taller núnero 2  POO Cantera nivel 2
+## Canteras nivel 2 - taller 2 POO.
+### Descripción.
+- Nombre: Yon Hawer Piñeros Mora.
+> En este segundo taller de canteras nivel 2 se aplica lo aprendido en cuanto a el manejo de abstracciones los métodos abstractos e interfaces, aplicándolo de tal manera que aprendamos como implementar estos métodos.
