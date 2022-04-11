@@ -1,5 +1,5 @@
 # RepositorioDeTaller2
-Este es el repositorio para el taller núnero 2  POO Cantera nivel 2
+Este es el repositorio para el taller número 2  POO Cantera nivel 2 - Abstracción e Interfaces.
 ## Canteras nivel 2 - taller 2 POO.
 ### Descripción.
 - Nombre: Yon Hawer Piñeros Mora.
